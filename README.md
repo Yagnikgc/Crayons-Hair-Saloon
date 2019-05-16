@@ -1,6 +1,7 @@
 # Crayons-Hair-Saloon
 
 -- General Information --
+
 This system is made for saloon shop for the process of booking appointment.
 This system allows user to book an appointment with different criteria and helps user to view booked appointment.
 
@@ -14,11 +15,11 @@ Home Page: here user can book appointment by clicking Book an Appointment button
 
 Book an Appointment Page: Here user can enter customer details like user name, appointment slot, email id, contact number, gender and selection choices.
 
-![Alt text](ScreenShots/Book Appointment.jpg "Book Appointment")
-![Alt text](ScreenShots/Book Appointment error.jpg "Book Appointment with error")
-![Alt text](ScreenShots/Book Appointment confirmation.jpg "Book Appointment to confirm")
+![Alt text](ScreenShots/Book%20Appointment.jpg "Book Appointment")
+![Alt text](ScreenShots/Book%20Appointment%20error.jpg "Book Appointment with error")
+![Alt text](ScreenShots/Book%20Appointment%20confirmation.jpg "Book Appointment to confirm")
 
 View Booked Appointment: User can view all the booked appointments and with the help of search bar user can find appointment by the name of customer.
 
-![Alt text](ScreenShots/Show Appointments.jpg "Show Appointment")
-![Alt text](ScreenShots/Show Appointments search.jpg "Show Appointment search")
+![Alt text](ScreenShots/Show%20Appointments.jpg "Show Appointment")
+![Alt text](ScreenShots/Show%20Appointments%20search.jpg "Show Appointment search")
