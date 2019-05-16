@@ -1,0 +1,44 @@
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\bin\Debug\Crayons Hair Saloon.exe.config
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\bin\Debug\Crayons Hair Saloon.exe
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\bin\Debug\Crayons Hair Saloon.pdb
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.csprojAssemblyReference.cache
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\MainWindow.g.cs
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\App.g.cs
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon_MarkupCompile.cache
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon_MarkupCompile.lref
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\MainWindow.baml
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.g.resources
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons_Hair_Saloon.Properties.Resources.resources
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.csproj.GenerateResource.cache
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.csproj.CoreCompileInputs.cache
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.exe
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.pdb
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Home.g.cs
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Home.baml
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\HairSaloon.g.cs
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\HairSaloon.baml
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\ShowData.g.cs
+C:\Users\yagni\OneDrive\Documents\Sem 1\PROG8145 - Software Development\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\ShowData.baml
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\bin\Debug\Crayons Hair Saloon.exe.config
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\bin\Debug\Crayons Hair Saloon.exe
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\bin\Debug\Crayons Hair Saloon.pdb
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.csprojAssemblyReference.cache
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\HairSaloon.g.cs
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Home.g.cs
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\MainWindow.g.cs
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\ShowData.g.cs
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\App.g.cs
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon_MarkupCompile.cache
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon_MarkupCompile.lref
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\HairSaloon.baml
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Home.baml
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\MainWindow.baml
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\ShowData.baml
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.g.resources
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons_Hair_Saloon.Properties.Resources.resources
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.csproj.GenerateResource.cache
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.csproj.CoreCompileInputs.cache
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.exe
+C:\Users\yagni\OneDrive\Desktop\Crayons Hair Saloon\Crayons Hair Saloon\obj\Debug\Crayons Hair Saloon.pdb

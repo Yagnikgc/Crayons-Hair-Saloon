@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customers>
+    <Customer xsi:type="Male">
+      <Name>Kunj</Name>
+      <ContactNumber>1234567894</ContactNumber>
+      <Email>kunj@gmail.com</Email>
+      <Age>45</Age>
+      <Tasks>Beard Styling
+</Tasks>
+    </Customer>
+  </Customers>
+</CustomerList>
